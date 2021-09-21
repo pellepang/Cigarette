@@ -57,7 +57,10 @@ cigarettes:
     crafting:
       shaped: false
       ingredients:
-        - PAPER
-        - GUNPOWDER
-      shape: []
+        - PAPER, P
+        - OAK_SAPLING, O
+      shape:
+        - POP
+        - POP
+        - POP
     particles: SMOKE_LARGE, 5, 0.1, 0.1, 0.1, 0.005
